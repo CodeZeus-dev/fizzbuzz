@@ -11,7 +11,7 @@ A **fizzbuzz.rb** script (case 2) has been developed, which creates a fizzbuzz m
 
 Both projects were implemented following *TDD protocol*, using *RSpec*, and via *Pair Programming* collaboration. :neckbeard:
 
-> Special thanks to [Margarida Martelo](https://github.com/margmartelo) for her contribution to the project and for our very fuitful collaboration.
+> Special thanks to [Margarida Martelo](https://github.com/margmartelo) for her contribution to the project and for our very fruitful collaboration.
 
 ## How to use ##
 
